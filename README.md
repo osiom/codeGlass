@@ -1,4 +1,4 @@
-Glasscode:Data Science Competition
+Glasscode: Data Science Competition
 code-Challenges/data-scientist
 
 
