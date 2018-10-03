@@ -7,3 +7,5 @@ We will generate only models which can estimate the values but they won't be abl
 
 One thing that we can do to better estimate prices is integrate in our model data from outside.
 We can do this through web scraping, sentiment analysis and documents from the most important cryptonews websites, social media platforms or PDF regulations.
+
+Creating an AI software to predict short-term prices would influence and can be helpful more for short terms trader than the long term holders which are the ones who really trust in blockchain and cryptos.
