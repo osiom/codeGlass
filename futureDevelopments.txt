@@ -5,5 +5,5 @@ Also centralized exchanges and big whales generate unexpected events.
 For those reason predict crypto prices with AI will always generate uncertain models.
 We will generate only models which can estimate the values but they won't be able to forsee it.
 
-One thing that we can do to better estimate prices is to integrate in our model outside data.
+One thing that we can do to better estimate prices is integrate in our model data from outside.
 We can do this through web scraping, sentiment analysis and documents from the most important cryptonews websites, social media platforms or PDF regulations.
