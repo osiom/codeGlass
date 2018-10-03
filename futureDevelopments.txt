@@ -1,0 +1,9 @@
+Prices of cryptocurrencies are volatile, markets reflect the sentiments and the feelings of the traders, the laws and the "hype" for new coins.
+That means the market is influenced by a thousands of "offchain" factors leaving most of the things in the hands of the case. 
+Also centralized exchanges and big whales generate unexpected events.
+
+For those reason predict crypto prices with AI will always generate uncertain models.
+We will generate only models which can estimate the values but they won't be able to forsee it.
+
+One thing that we can do to better estimate prices is to integrate in our model outside data.
+We can do this through web scraping, sentiment analysis and documents from the most important cryptonews websites, social media platforms or PDF regulations.
